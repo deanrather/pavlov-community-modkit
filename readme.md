@@ -6,6 +6,7 @@ This plugin contains tools for helping PavlovVR Mappers and Modders make awesome
 
 - Click "Clone or Download" -> "Download as ZIP"
 - Extract the `CommunityModkit` folder into your project's `Plugins` folder
+- Put the `Config/DefaultInput.ini` into your project's `Config` folder
 - That's it! No need to move this into your UGC. These are all all in-editor tools.
 
 ## Documentation
